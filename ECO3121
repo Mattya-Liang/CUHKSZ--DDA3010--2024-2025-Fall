@@ -1,0 +1,16 @@
+ECO3121 Lecture 1
+1.Causality 随机性
+1.1 为什么人们需要随机性Causality
+在进行统计数据的时候我们试图尝试找到两个变量之间的潜在关系
+然而，简单的归纳统计不能给出正确的关系，在除去我们想知道的变量意外，存在着许多叫做Confounding Factor
+因此人们试图创造Ideal Experiment，来去除Confounding Factor的影响
+1.1.1 例子
+问题：Causal effect of fertilizer on crop yield - - 
+By how much will the production of soybeans increase if one increases the amount of fertilizer applied to the ground”
+
+1.1.2 注意
+在分析数据的时候，要找到正确的变量之间的关系，即谁是自变量谁是因变量
+更高的犯罪率 -> 更高的警察配置 而非反过来
+
+1.1.3 数学建模
+情景：为了探究健康保险是否对人的健康有效果
