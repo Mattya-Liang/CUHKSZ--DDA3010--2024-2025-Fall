@@ -26,3 +26,6 @@
 1.4 Dimensionality Reduction 维度降低
 
 1.5 Data Visualization 数据可视化
+
+Lecture 2 2024.9.5
+使用python的numpy，pandas和mahplot去针对数据画图
